@@ -28,7 +28,7 @@
     "js-base64": "^2.4.9",
     "kratos": "^2.3.3",
     "minecraft-server-util": "^1.1.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "node-opus": "^0.3.0",
     "path": "^0.12.7",
